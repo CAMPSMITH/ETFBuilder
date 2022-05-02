@@ -65,38 +65,38 @@ Note: The port may vary.  Replace *8867* with the port number indicated by the *
 ## ETFBuilder WebApp in Action
 Once you have the web app running, 
 ### Initial WebApp View
-[!images/initial_webapp_view.png](initial webapp view)
+![initial webapp view](images/initial_webapp_view.png)
 ### Confirm ETF Database Tables Were Created
-[!images/etf_tables.png](ETF tables)
+![ETF tables](images/etf_tables.png)
 ### Exploring PYPL
 The webapp shares an analysis of PYPL, one of the components of the ETF. Scroll down the page to view the following:
 #### Viewing the PYPL data frame
-[!images/pypl_dataframe.png](PYPL dataframe)
+![PYPL dataframe](images/pypl_dataframe.png)
 #### PYPL Daily Returns Plot
-[!images/pypl_daily_returns.png](PYPL cumulative return plot)
+![PYPL cumulative return plot](images/pypl_daily_returns.png)
 #### PYPL Daily Returns Plot Interactive
 The PYPL Daily Returns plot is interactive.  Controls on the righ can allow users to examine periods of interest, such as the period of high volatility shown in this screen shot.
-[!images/pypl_daily_returns_zoom.png](PYPL cumulative return plot)
+![PYPL cumulative return plot](images/pypl_daily_returns_zoom.png)
 #### PYPL Cumulative Return Plot
-[!images/pypl_cumprod.png](PYPL cumulative return plot)
+![PYPL cumulative return plot](images/pypl_cumprod.png)
 #### PYPL Cumulative Return Plot Interactive
 The PYPL Cumulative Return plot is interactive.  Controls on the righ can allow users to examine periods of interest, such as the period of high growth shown in this screen shot.
-[!images/pypl_cumprod_zoom.png](PYPL cumulative return plot)
+![PYPL cumulative return plot](images/pypl_cumprod_zoom.png)
 #### Viewing PYPL close above 200
-[!images/pypl_close_200](PYPL close above 200)
+![PYPL close above 200](images/pypl_close_200)
 #### Viewing Top 10 PYPL daily return dates
-[!images/pypl_top10_dailyreturns.png](PYPL top 10 daily returns)
+![PYPL top 10 daily returns](images/pypl_top10_dailyreturns.png)
 ### Analyzing the ETF
 #### Consolidating ETF Portfolio Data into a Joined view
-[!images/etf_daily_returns.png](ETF Portfolio Consolidated View)
+![ETF Portfolio Consolidated View](images/etf_daily_returns.png)
 #### ETF Return Analysis
 The following screen shot shows the ETF Portfolio's average daily return, Annualized Portfolio Return and final ETF Portfolio Cumulative Return.
-[!images/etf_average_daily_returns.png](ETF Portfolio Returns)
+![ETF Portfolio Returns](images/etf_average_daily_returns.png)
 #### ETF Portfolio Cumulative Return Plot
-[!images/etf_cumprod.png](PYPL cumulative return plot)
+![PYPL cumulative return plot](images/etf_cumprod.png)
 #### ETF Portfolio  Cumulative Return Plot Interactive
 The ETF Portfolio Cumulative Return plot is interactive.  Controls on the righ can allow users to examine periods of interest, such as the period of high growth shown in this screen shot.
-[!images/etf_cumprod_zoom.png](PYPL cumulative return plot)
+![PYPL cumulative return plot](images/etf_cumprod_zoom.png)
 
 ---
 
