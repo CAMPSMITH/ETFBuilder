@@ -83,7 +83,7 @@ The PYPL Daily Returns plot is interactive.  Controls on the righ can allow user
 The PYPL Cumulative Return plot is interactive.  Controls on the righ can allow users to examine periods of interest, such as the period of high growth shown in this screen shot.
 ![PYPL cumulative return plot](images/pypl_cumprod_zoom.png)
 #### Viewing PYPL close above 200
-![PYPL close above 200](images/pypl_close_200)
+![PYPL close above 200](images/pypl_close_200.png)
 #### Viewing Top 10 PYPL daily return dates
 ![PYPL top 10 daily returns](images/pypl_top10_dailyreturns.png)
 ### Analyzing the ETF
